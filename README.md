@@ -1,2 +1,4 @@
-# cfb-analytics
-Analyzing the effects of recruiting rankings and whether they predict Big 12 football team peformances
+   # College Football Recruiting Analysis
+   Investigating whether recruiting class rankings predict team performance in the Big 12, using CFBD data.
+   
+   ## Status: In progress
